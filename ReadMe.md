@@ -8,8 +8,6 @@
 
 📧 **[ahmmad.ashraaf@gmail.com](mailto:ahmmad.ashraaf@gmail.com)**
 
-![Profile views](https://komarev.com/ghpvc/?username=HERO1234567890J&label=Profile%20Views&color=0e75b6&style=flat)
-
 **Open to opportunities — Internships · Full-time · Freelance**  
 Android · Full-stack · Applied AI · IoT / Embedded
 
@@ -19,14 +17,19 @@ Android · Full-stack · Applied AI · IoT / Embedded
 
 ### 👨‍💻 About Me
 
-I'm **Ahmed Ashraf**, an early-career **Software Engineer** based in Cairo 🇪🇬 with **3+ years** of hands-on experience across Android, full-stack web, applied AI and enterprise IT systems.
-I like building products that actually work in the real world: from an AI companion app for blind users to an edge-AI safety drone.
+I'm **Ahmed Ashraf**, a **Software Engineer & AI Automation specialist** from Cairo 🇪🇬, **Founder of Koomiit AI Solutions**, with **3+ years** of hands-on experience across Android, full-stack web, applied AI, IoT and business systems.
 
-- 🎓 **Oracle Programming Graduate**, Elsewedy Technical Academy (STA) · **Pearson BTEC Level 3 IT, Triple Distinction (D\*D\*D\*)**
+I build solutions that solve **real business problems, not just technical ones**: from an AI companion app for blind users and an edge-AI safety drone, to growth and automation systems for startups and e-commerce brands (AI automation, business process automation, CRM, B2B lead generation, sales operations and marketing automation).
+
+- 🚀 **Founder**, Koomiit AI Solutions
+- 🎓 **Oracle IT Graduate**, Elsewedy Technical Academy (STA) · **Pearson BTEC Level 3, Triple Distinction (D\*D\*D\*)** · now pursuing a B.Tech in IT at New Cairo Technological University
 - 🏅 **Best Programmer Award**, Elsewedy Technical Academy (Jan 2026)
 - 🔭 Currently building **Rafeeq** and an **Educational Center Management** Android app
-- 🤖 Automating business workflows with **n8n** for freelance clients
-- 🗣️ Arabic (native) · English (very good)
+- 🤖 Automating business workflows with **n8n**, and building **Shopify** stores and **Discord** communities for clients
+- 🌍 Presented projects to engineers and international visitors from the UK
+- 🗣️ Arabic (native) · English (full professional)
+
+> 💬 **Open to** internships, industry collaborations and exciting projects where I can contribute, learn and grow with innovative teams.
 
 ---
 
@@ -36,6 +39,16 @@ I like building products that actually work in the real world: from an AI compan
 |---|---|
 | 🚁 **92% / 97% mAP** custom YOLOv8 models | 🥇 **Best Programmer**, STA (Jan 2026) |
 | 🛡️ **ITC-Egypt 2026**: Anti-Drone Challenge, Stage 2 | 🧠 **Digitopia** (Ministry of ICT): Stage 2, AI track |
+
+---
+
+### 🤝 What I Can Build For You
+
+| | |
+|---|---|
+| 🤖 **AI & Workflow Automation**<br>n8n workflows, API & webhook integrations, business process automation | 📈 **Growth Systems**<br>CRM setups, B2B lead generation, sales operations, email & marketing automation |
+| 🛒 **Shopify Stores**<br>Custom themes, products, payment gateways, performance & conversion optimization | 📱 **Android & Web Apps**<br>Kotlin / Jetpack Compose apps, React & Next.js front-ends, Firebase back-ends |
+| 💬 **Discord Servers & Bots**<br>Server architecture, roles & permissions, moderation, ticketing, custom bots | 🛰️ **AI, IoT & Embedded**<br>YOLO computer vision, Raspberry Pi edge inference, Arduino / ESP prototypes |
 
 ---
 
@@ -55,6 +68,9 @@ I like building products that actually work in the real world: from an AI compan
 
 **IoT, Robotics & Embedded**<br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![PLC](https://img.shields.io/badge/PLC-555555?style=for-the-badge) ![MAVLink](https://img.shields.io/badge/MAVLink-0B5FFF?style=for-the-badge)
+
+**Automation & Business Systems**<br>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ![Webhooks & APIs](https://img.shields.io/badge/Webhooks_&_APIs-0B5FFF?style=for-the-badge) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![CRM](https://img.shields.io/badge/CRM-0F766E?style=for-the-badge) ![Marketing Automation](https://img.shields.io/badge/Marketing_Automation-B45309?style=for-the-badge) ![Lead Generation](https://img.shields.io/badge/Lead_Generation-6D28D9?style=for-the-badge)
 
 **Databases**<br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -89,15 +105,26 @@ I like building products that actually work in the real world: from an AI compan
 
 | Period | Role |
 |---|---|
+| Present | **Founder**, Koomiit AI Solutions |
 | Jul 2026 – Now | **Android Developer**, Educational Center Management System |
 | Jun 2026 – Now | **Android Developer**, Rafeeq (voice-first AI companion) |
 | May 2026 – Jul 2026 | **Hardware & Systems Lead**, Aero Block (ITC-Egypt'2026) |
-| Aug 2025 – 2026 | **n8n Workflow Developer**, Freelance |
-| Nov 2024 – 2025 | **Front-End Team Leader**, Purchasing Management Platform (STA Finance Dept.) |
+| Aug 2025 – Now | **n8n Workflow Developer**, Freelance: automation workflows, API & webhook integrations |
 | Aug 2025 – Sep 2025 | **AI Developer**, Digitopia Competition (Team NEO) |
-| Jan 2023 – Now | **Shopify E-Commerce Developer**, Freelance |
+| Nov 2024 – Feb 2025 | **Project Team Lead**, STA Academy website (UI/UX + full-stack) |
+| Nov 2024 – 2025 | **Front-End Team Leader**, Purchasing Management Platform (STA Finance Dept.) |
+| Jan 2023 – Now | **Shopify Developer**, Freelance: stores for dropshipping businesses and local brands |
+| Feb 2022 – Now | **Discord Servers & Bots Developer**: servers for gaming communities, creators and stores |
 
 📄 Full details on [LinkedIn](https://linkedin.com/in/ahmmedd-ashrraff)
+
+---
+
+### 🎓 Education
+
+- **New Cairo Technological University**: B.Tech, Information Technology *(Sep 2026)*
+- **Elsewedy Technical Academy (STA)**: Higher National Diploma, Computer Software Engineering *(2023 – 2026)*
+- **Pearson BTEC Level 3 International Extended Diploma in IT**: Triple Distinction (D\*D\*D\*)
 
 ---
 
@@ -107,6 +134,7 @@ I like building products that actually work in the real world: from an AI compan
 - ⚛️ **Manara Academy**: Frontend Engineering with React.js
 - 🌐 **Certified Web Professional: Web Developer** (Distinction)
 - 🤖 **Digitopia**: AI Track Certificate (Team NEO)
+- 🥤 **Youth Coca-Cola HBC Academy**: Interview Skills, CV Writing & Personal Branding
 
 ---
 
@@ -117,7 +145,7 @@ I like building products that actually work in the real world: from an AI compan
 [![](https://github-readme-stats.vercel.app/api?username=HERO1234567890J&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/HERO1234567890J)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=HERO1234567890J&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/HERO1234567890J)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=HERO1234567890J&theme=tokyonight&hide_border=true)](https://github.com/HERO1234567890J)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HERO1234567890J&theme=tokyonight&hide_border=true)](https://github.com/HERO1234567890J)
 
 </div>
 

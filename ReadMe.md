@@ -60,17 +60,15 @@ Built individually, each from a real-world business scenario.
 | **Programming** | **Currency Conversion System**, a Java OOP desktop app with four pages (Currency Converter, Admin Login, Admin Dashboard, Insert). Oracle database with a designed schema and SQL queries, full CRUD. UI/UX designed in Figma first, then tested. |
 | **Web Development** | [**Hole-In-One Resort Website**](https://github.com/HERO1234567890J/Hole-In-One-Resort-Website): full client site for a golf resort and hotel (Home, Offers, Services, Contact and more). Iterated on UI/UX and accessibility from client feedback; instructors recognized the extra features I added. |
 | **Software Testing** | [**Automation Testing**](https://github.com/HERO1234567890J/Automation-Testing-main): Selenium + Java tests and Postman API tests on a live website, with structured reports in Testomat.io following the SDLC. |
-| **Database Design** | **Medical Center Management System**: normalized relational database in Microsoft Access with SQL queries, primary keys and relationships to keep records consistent. |
-| **Data Modelling** | Financial and manufacturing cost-analysis model in Excel: VBA, pivot tables, forecasting, data validation, VAT and shipping calculations. |
+| **Database Design** | **Medical Center Management System**: normalized relational database in Microsoft Access with SQL queries, primary keys and relationships to keep records consistent. Designed with ER diagrams and UML models. |
+| **Data Modelling** | Financial and manufacturing cost-analysis model in Excel: VBA, pivot tables, forecasting, data validation, VAT and shipping calculations. Large datasets analyzed in Power BI. |
 | **Cybersecurity & Cloud** | Risk assessments and incident-response plans for simulated breaches. Configured and benchmarked cloud platforms with encryption, access management and firewalls. |
-| **Web, Mobile & Data** | Responsive, accessibility-optimized site (HTML/CSS/JS), Android app prototype in Java with dynamic forms and navigation, ER diagrams and UML models, large-dataset analysis in Power BI. |
+| **Mobile Development** | [**Elsewedy SEDECO Mobile App**](https://github.com/HERO1234567890J/Elsewedy_SEDECO_Mobile_App): inventory management system as an Android app in Java, with role-based access control for admin and worker roles. Dynamic forms and navigation, built with OOP design. |
 | **Strategy & IoT** | IT strategy roadmap, Agile/Gantt plans and BPMN workflow maps that exposed process bottlenecks. Arduino/ESP prototype with sensors and cloud connectivity for real-time automation. |
 
 #### 📂 Other public repos
 
-| | |
-|---|---|
-| [**Departmental Equipment Management**](https://github.com/HERO1234567890J/Departmental-Equipment-Management-Website)<br>Complete website for managing departmental equipment, serving students, department heads and financial managers.<br>`React` `TypeScript` `Node.js` | [**Elsewedy SEDECO Mobile App**](https://github.com/HERO1234567890J/Elsewedy_SEDECO_Mobile_App)<br>Mobile app written in Java.<br>`Java` `Android` |
+[**Departmental Equipment Management**](https://github.com/HERO1234567890J/Departmental-Equipment-Management-Website): complete website for managing departmental equipment, serving students, department heads and financial managers. `React` `TypeScript` `Node.js`
 
 ---
 
